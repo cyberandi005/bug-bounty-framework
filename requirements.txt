@@ -1,0 +1,47 @@
+# HTTP & Web
+requests==2.31.0
+urllib3==2.1.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Database
+
+# Async & Threading
+aiohttp==3.9.1
+
+# Data Processing
+numpy==1.24.3
+pandas==2.1.1
+
+# Reporting
+jinja2==3.1.2
+
+# Security & Cryptography
+cryptography==41.0.7
+pycryptodome==3.18.0
+
+# Parsing & Format
+python-dotenv==1.0.0
+jsonschema==4.20.0
+pyyaml==6.0.1
+
+# CLI & Terminal
+click==8.1.7
+colorama==0.4.6
+tqdm==4.66.1
+rich==13.7.0
+
+# DNS & Network
+dnspython==2.4.2
+
+# WHOIS & IP
+whois==0.9.7
+
+# Logging
+loguru==0.7.2
+
+# User Agent
+user-agent==0.1.9
+
+# Rate Limiting
+ratelimit==2.2.1

@@ -1,0 +1,20 @@
+{
+  "scanning": {
+    "threads": 10,
+    "timeout": 30,
+    "retry_count": 3
+  },
+  "payloads": {
+    "sqli_payload_count": 50,
+    "xss_payload_count": 100,
+    "directory_wordlist": "wordlists/common.txt"
+  },
+  "detection": {
+    "sensitive_patterns": true,
+    "response_analysis": true
+  },
+  "output": {
+    "formats": ["json", "html", "csv"],
+    "detailed_report": true
+  }
+}
